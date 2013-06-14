@@ -16,9 +16,16 @@ gem 'jquery-rails'
 
 group :development do
 	gem 'rspec-rails'
+	gem 'capybara'
+	gem 'webrat'
+	
 end
 
 group :test do
 	gem 'rspec'
+	gem 'capybara'
+	gem 'webrat'
+	
+
 end
 

@@ -25,7 +25,7 @@ group :test do
 	gem 'rspec'
 	gem 'capybara'
 	gem 'webrat'
-	
-
+	gem 'guard-rspec'
+	gem 'spork'
 end
 

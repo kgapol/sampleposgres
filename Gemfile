@@ -18,6 +18,7 @@ group :development do
 	gem 'rspec-rails'
 	gem 'capybara'
 	gem 'webrat'
+	gem 'annotate'
 	
 end
 

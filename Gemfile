@@ -23,6 +23,7 @@ group :development do
 	gem 'spork'
 	gem 'growl'
 	gem 'bcrypt-ruby'
+	gem 'factory_girl_rails', '1.0'
 	
 end
 
@@ -34,5 +35,6 @@ group :test do
 	gem 'spork'
 	gem 'growl'
 	gem 'bcrypt-ruby'
+	gem 'factory_girl_rails', '1.0'
 end
 

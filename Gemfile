@@ -19,6 +19,10 @@ group :development do
 	gem 'capybara'
 	gem 'webrat'
 	gem 'annotate'
+	gem 'guard-rspec'
+	gem 'spork'
+	gem 'growl'
+	gem 'bcrypt-ruby'
 	
 end
 
@@ -28,5 +32,7 @@ group :test do
 	gem 'webrat'
 	gem 'guard-rspec'
 	gem 'spork'
+	gem 'growl'
+	gem 'bcrypt-ruby'
 end
 

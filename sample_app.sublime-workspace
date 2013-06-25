@@ -1,0 +1,784 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"enctr",
+				"encrypted_password"
+			],
+			[
+				"should",
+				"should_not"
+			],
+			[
+				"email",
+				"email_regex"
+			],
+			[
+				"inva",
+				"invalid_email_user"
+			],
+			[
+				"add",
+				"address"
+			],
+			[
+				"ad",
+				"address"
+			],
+			[
+				"do",
+				"do"
+			],
+			[
+				"be",
+				"be_valid"
+			],
+			[
+				"my",
+				"mycoolModal"
+			],
+			[
+				"set",
+				"setup_competitive"
+			],
+			[
+				"over",
+				"overview"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"star",
+				"starburst"
+			],
+			[
+				"icon-m",
+				"icon-minus"
+			],
+			[
+				"this",
+				"this"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"weig",
+				"weighting"
+			],
+			[
+				"com",
+				"competitive_setup"
+			],
+			[
+				"weight",
+				"kpi_weighting_2"
+			],
+			[
+				"max-",
+				"max-height"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"comp",
+				"company_details_1"
+			],
+			[
+				"padin",
+				"padding-top"
+			],
+			[
+				"border-",
+				"border-bottom"
+			],
+			[
+				"in",
+				"input	Tag"
+			],
+			[
+				"li",
+				"list-view"
+			],
+			[
+				"sysm",
+				"system"
+			],
+			[
+				"dat",
+				"dataProvider"
+			],
+			[
+				"html",
+				"htmlOptions"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"array",
+				"array"
+			],
+			[
+				"fo",
+				"footer	Tag"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"s",
+				"sans-serif"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"pad",
+				"padding-right"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"acti",
+				"activations"
+			],
+			[
+				"social",
+				"social_entities"
+			],
+			[
+				"Social",
+				"social_channels"
+			],
+			[
+				"chan",
+				"channel_identifier"
+			],
+			[
+				"socialent",
+				"socialentity"
+			],
+			[
+				"curr",
+				"current_org"
+			],
+			[
+				"sele",
+				"select"
+			],
+			[
+				"re",
+				"response"
+			],
+			[
+				"json",
+				"jsonData"
+			],
+			[
+				"ove",
+				"overall_score"
+			],
+			[
+				"socia",
+				"social_entity"
+			],
+			[
+				"socialen",
+				"socialentities"
+			],
+			[
+				"soci",
+				"socialentity"
+			],
+			[
+				"so",
+				"socialentity"
+			],
+			[
+				"load",
+				"load_entities"
+			],
+			[
+				"show",
+				"show_overall"
+			],
+			[
+				"rep",
+				"reputation_score"
+			],
+			[
+				"soc",
+				"socialentity"
+			],
+			[
+				"org",
+				"organization"
+			],
+			[
+				"or",
+				"organization"
+			],
+			[
+				"has",
+				"has_many"
+			],
+			[
+				"organ",
+				"organization_id"
+			],
+			[
+				"pa",
+				"params"
+			],
+			[
+				"post",
+				"post_path"
+			],
+			[
+				"socialcha",
+				"socialchannel"
+			],
+			[
+				"av",
+				"activations"
+			],
+			[
+				"pri",
+				"primary_url"
+			],
+			[
+				"datasimply",
+				"datasimply"
+			],
+			[
+				"current",
+				"current_user"
+			],
+			[
+				"password_",
+				"password_confirmation"
+			],
+			[
+				"before_",
+				"before_save"
+			],
+			[
+				"chart",
+				"chartArea"
+			],
+			[
+				"act",
+				"activations"
+			],
+			[
+				"send_",
+				"send_activation_email"
+			],
+			[
+				"orga",
+				"organizations"
+			],
+			[
+				"auth",
+				"auth_token"
+			],
+			[
+				"curre",
+				"current_user"
+			],
+			[
+				"col",
+				"column"
+			],
+			[
+				"gener",
+				"generate_token"
+			],
+			[
+				"new",
+				"new_post"
+			],
+			[
+				"mini",
+				"minitest-rails-shoulda"
+			],
+			[
+				"orgn",
+				"organization"
+			],
+			[
+				"ta",
+				"tasks"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "spec/spec_helper.rb",
+			"settings":
+			{
+				"buffer_size": 3566,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+		],
+		"width": 530.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/keithgapol/Desktop/rails_projects/sample_app/config/routes.rb",
+		"/Users/keithgapol/Desktop/rails_projects/sample_app/spec/models/user_spec.rb",
+		"/Users/keithgapol/Desktop/rails_projects/sample_app/app/models/user.rb",
+		"/Users/keithgapol/Desktop/rails_projects/sample_app/.rspec",
+		"/Users/keithgapol/Desktop/rails_projects/sample_app/spec/spec_helper.rb",
+		"/Users/keithgapol/Desktop/rails_projects/sample_app/Guardfile",
+		"/Users/keithgapol/Desktop/rails_projects/sample_app/Gemfile",
+		"/Users/keithgapol/Library/Application Support/Sublime Text 2/Packages/RubyTest/RubyTest.sublime-settings",
+		"/Users/keithgapol/Library/Application Support/Sublime Text 2/Packages/Package Control/Package Control.sublime-settings",
+		"/Users/keithgapol/Desktop/rails_projects/sample_app/db/migrate/20130624005323_add_password_to_users.rb",
+		"/Users/keithgapol/Desktop/rails_projects/sample_app/spec/controllers/users_controller_spec.rb",
+		"/Users/keithgapol/Desktop/rails_projects/sample_app/db/schema.rb",
+		"/Users/keithgapol/Desktop/rails_projects/sample_app/spec/views/users/new.html.erb_spec.rb.turnedoff",
+		"/Users/keithgapol/Desktop/rails_projects/sample_app/spec/helpers/users_helper_spec.rb",
+		"/Users/keithgapol/Desktop/rails_projects/sample_app/db/migrate/20130623065631_create_users.rb",
+		"/Users/keithgapol/desktop/manageme/app/views/layouts/application.html.erb",
+		"/Users/keithgapol/desktop/manageme/app/controllers/application_controller.rb",
+		"/Users/keithgapol/desktop/manageme/app/assets/stylesheets/application.css",
+		"/Users/keithgapol/desktop/manageme/config/routes.rb",
+		"/Users/keithgapol/Desktop/manageme/app/views/layouts/sessions.html.erb",
+		"/Users/robert/Project/Rails/DataSimply/app/assets/javascripts/company_details.js.coffee",
+		"/Users/robert/Project/Rails/DataSimply/app/views/layouts/competitive_setup.html.erb",
+		"/Users/robert/Project/Rails/DataSimply/app/controllers/company_groups_controller.rb",
+		"/Users/robert/Project/Rails/DataSimply/app/views/sessions/alerts.html.erb",
+		"/Users/robert/Project/Rails/DataSimply/app/controllers/sessions_controller.rb",
+		"/Users/robert/Project/Rails/DataSimply/config/routes.rb",
+		"/Users/robert/Project/Rails/DataSimply/app/views/layouts/home.html.erb",
+		"/Users/robert/Project/Rails/DataSimply/app/views/layouts/screens.html.erb",
+		"/Users/robert/Project/Rails/DataSimply/app/views/sessions/competitive_setup.html.erb",
+		"/Users/robert/Project/Rails/DataSimply-FrontEnd-ians_many_to_many_companies/app/controllers/company_groups_controller.rb",
+		"/Users/robert/Project/Rails/DataSimply-FrontEnd-ians_many_to_many_companies/app/controllers/company_associations_controller.rb",
+		"/Users/robert/Project/Rails/DataSimply/app/assets/stylesheets/drilldown.css.scss",
+		"/Users/robert/Project/Rails/DataSimply/app/assets/stylesheets/application.css.scss",
+		"/Users/robert/Project/Rails/DataSimply/app/views/sessions/product.html.erb",
+		"/Users/robert/Project/Rails/DataSimply/app/views/sessions/culture.html.erb",
+		"/Users/robert/Project/Rails/DataSimply/app/views/sessions/chatter.html.erb",
+		"/Users/robert/Project/Rails/DataSimply/app/views/sessions/people.html.erb",
+		"/Users/robert/Project/Rails/DataSimply/app/views/sessions/service.html.erb",
+		"/Users/robert/Project/Rails/DataSimply/app/assets/stylesheets/screens.css.scss",
+		"/Users/robert/Project/Rails/DataSimply/app/assets/stylesheets/overview.css.scss",
+		"/Users/robert/Project/Rails/DataSimply/app/views/sessions/screens.html.erb",
+		"/Users/robert/Project/Rails/DataSimply/app/views/sessions/drilldown.html.erb",
+		"/Users/robert/Project/Rails/DataSimply/app/assets/javascripts/sessions.js.coffee",
+		"/Users/robert/Project/Rails/DataSimply/app/views/layouts/password_resets.html.erb",
+		"/Users/robert/Project/Rails/DataSimply/app/views/layouts/organizations.html.erb",
+		"/Users/robert/Project/Rails/DataSimply/app/views/layouts/login.html.erb",
+		"/Users/robert/Project/Rails/DataSimply/app/views/layouts/sessions.html.erb",
+		"/Users/robert/Project/Rails/DataSimply/app/views/layouts/social_entities.html.erb",
+		"/Users/robert/Project/Rails/DataSimply/app/views/layouts/users.html.erb",
+		"/Users/robert/Project/Rails/DataSimply/app/views/layouts/extracts.html.erb",
+		"/Users/robert/Project/Rails/DataSimply/app/assets/stylesheets/bootstrap.css.scss",
+		"/Users/robert/Project/Rails/DataSimply/app/views/layouts/drilldown.html.erb",
+		"/Users/robert/Project/Rails/DataSimply/app/views/sessions/home.html.erb",
+		"/Users/robert/Project/Rails/DataSimply/app/views/layouts/drilldow.html.erb",
+		"/Users/robert/Project/Rails/DataSimply/app/views/sessions/extracts.html.erb",
+		"/Users/robert/Project/Rails/DataSimply/app/assets/stylesheets/gridster.css.scss",
+		"/Users/robert/Project/Rails/DataSimply/app/assets/javascripts/application.js",
+		"/Users/robert/Project/Rails/DataSimply/app/assets/javascripts/social_entities.js.coffee",
+		"/Users/robert/Project/Rails/DataSimply/old_javascripts",
+		"/Users/robert/Project/Rails/DataSimply/app/assets/stylesheets/sessions.css.scss",
+		"/Users/robert/Project/Rails/DataSimply/app/assets/stylesheets/extracts.css.scss",
+		"/Users/robert/Project/Rails/DataSimply/app/views/sessions/kpi_weighting_2.html.erb",
+		"/Users/robert/Project/Rails/DataSimply/app/views/sessions/kpi_weighting.html.erb",
+		"/Users/robert/Project/Rails/DataSimply/app/assets/javascripts/jquery_slider.js",
+		"/Users/robert/Project/Rails/DataSimply/app/views/sessions/feeds.html.erb",
+		"/Users/robert/Project/Rails/DataSimply/app/assets/javascripts/bootstrap.js",
+		"/Users/robert/Project/Rails/DataSimply/app/views/sessions/new.html.erb",
+		"/Users/robert/Project/Rails/DataSimply/app/assets/stylesheets/bootstrap-responsive.css.scss",
+		"/Users/robert/Project/PHP/gametradr/index.php",
+		"/Users/robert/Project/Rails/DataSimply/app/assets/stylesheets/jquery_ui.css.scss",
+		"/Users/robert/Project/Rails/DataSimply/Gemfile",
+		"/Users/robert/Project/Rails/DataSimply/Gemfile.lock",
+		"/Users/robert/Project/PHP/gametradr/protected/views/user/_view.php",
+		"/Users/robert/Project/PHP/gametradr/protected/views/user/view.php",
+		"/Users/robert/Project/PHP/gametradr/protected/views/layouts/admin.php",
+		"/Users/robert/Project/PHP/gametradr/protected/views/layouts/main.php",
+		"/Users/robert/Project/Rails/DataSimply/app/models/my_company.rb",
+		"/Users/robert/Project/Rails/DataSimply/app/models/user.rb",
+		"/Users/robert/Project/Rails/DataSimply/app/models/company_details.rb",
+		"/Users/robert/Project/PHP/gametradr/protected/config/main.php",
+		"/Users/robert/Project/Rails/DataSimply/app/models/lock.rb",
+		"/Users/robert/Project/Rails/DataSimply/app/controllers/my_companies_controller.rb",
+		"/Users/robert/Project/Rails/DataSimply/app/assets/javascripts/jquery.gridster.js",
+		"/Users/robert/Project/PHP/gametradr/protected/views/admin/title/index.php",
+		"/Users/robert/Project/PHP/gsgdonation/goldstardonations.html",
+		"/Users/robert/Project/PHP/gsgdonation/css/style.css",
+		"/Users/robert/Project/PHP/gsgdonation/style.css",
+		"/Users/robert/Project/PHP/style.css",
+		"/Users/robert/Project/PHP/gametradr/protected/config/goldstardonations.html",
+		"/Users/robert/Project/PHP/goldstardonations.html",
+		"/Users/robert/Project/PHP/GT/protected/config/main.php",
+		"/Users/robert/Project/PHP/GT/protected/views/layouts/main.php",
+		"/Users/robert/Project/PHP/Bus118W/lab9.html",
+		"/Users/robert/Project/PHP/GT/protected/controllers/UserController.php",
+		"/Users/robert/Project/PHP/GT/css/main.css",
+		"/Users/robert/Project/PHP/GT/protected/views/title/_single.php",
+		"/Users/robert/Project/PHP/GT/protected/views/title/view.php",
+		"/Users/robert/Project/PHP/GT/protected/views/title/_view.php",
+		"/Users/robert/Project/PHP/GT/protected/views/system/_view.php",
+		"/Users/robert/Project/PHP/GT/protected/views/system/update.php",
+		"/Users/robert/Project/PHP/GT/protected/views/title/index.php",
+		"/Users/robert/Project/PHP/GT/protected/views/system/index.php",
+		"/Users/robert/Project/PHP/GT/protected/views/system/view.php",
+		"/Users/robert/Project/PHP/GT/protected/views/site/index.php",
+		"/Users/robert/Project/PHP/GT/protected/views/system/_single.php",
+		"/Users/robert/Project/PHP/GT/protected/views/site/login.php",
+		"/Users/robert/Project/PHP/GT/protected/controllers/SystemController.php",
+		"/Users/robert/Project/PHP/GT/protected/controllers/TitleController.php",
+		"/Users/robert/Project/PHP/GT/index.php",
+		"/Users/robert/Project/Rails/flashcards/config/database.yml",
+		"/Users/robert/Project/Rails/flashcards/Gemfile",
+		"/Users/robert/Project/Rails/DataSimply/config/database.yml",
+		"/Users/robert/Project/Rails/flashcards/app/views/partials/_marketing.html.erb",
+		"/Users/robert/Project/PHP/GT/css/form.css",
+		"/Users/robert/Project/PHP/GT/protected/views/site/contact.php",
+		"/Users/robert/Downloads/bootstrap (1)/img/glyphicons-halflings-white.png",
+		"/Users/robert/Downloads/bootstrap (1)/img/glyphicons-halflings.png",
+		"/Users/robert/Project/PHP/GT/js/gt.js",
+		"/Users/robert/Downloads/bootstrap (1)/css/bootstrap.css",
+		"/Users/robert/Downloads/bootstrap (1)/js/bootstrap.js",
+		"/Users/robert/Downloads/bootstrap/css/bootstrap.css",
+		"/Users/robert/Downloads/bootstrap/css/bootstrap.min.css",
+		"/Users/robert/Project/PHP/GT/protected/views/layouts/ajax.php",
+		"/Users/robert/Project/PHP/GT-HTML/index.html",
+		"/Users/robert/Project/PHP/GT/protected/controllers/SiteController.php",
+		"/Users/robert/Project/PHP/GT/protected/components/Controller.php",
+		"/Users/robert/Project/PHP/GT-HTML/css/style.css",
+		"/Users/robert/Project/Rails/datasimply-dash/dashboards/sample.erb"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/Users/robert/Project/Code/DataSimply-FrontEnd/app/views/organizations",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"submit",
+			"btn-primary",
+			"submit",
+			"button, input[type=\"button\"], input[type=\"reset\"], input[type=\"submit\"]",
+			"btn-primary",
+			"button_to",
+			"<span class=\"twitter-38\">",
+			".htw",
+			"extract",
+			"fieldset",
+			"StockTWits",
+			"footer",
+			":hover",
+			"@media",
+			"media",
+			"class=\"accordion\"",
+			"class=\"accordian\"",
+			"accord",
+			"ui-widget",
+			"<span class=\"amount\">60</span>",
+			"acco",
+			"company",
+			"extra",
+			".navbar",
+			".nav",
+			"kpi",
+			"company",
+			"kpi",
+			"overall",
+			".navbar",
+			".navbar ul",
+			"nav-bar ul",
+			"icon",
+			"[class^=\"icon-\"], [class*=\" icon-\"]",
+			"icon-plus",
+			"<h3>",
+			"h3",
+			"			</",
+			"tab",
+			"span",
+			"table-border",
+			"caption",
+			";\n",
+			".table-striped ",
+			".table-striped tbody tr:nth-child(odd) td, .table-striped tbody tr:nth-child(odd) th",
+			"#f9f9f9",
+			"nth",
+			"even",
+			"$(function(){ //DOM Ready\n \n    $(\".gridster ul\").gridster({\n        widget_margins: [10, 10],\n        widget_base_dimensions: [140, 140]\n    });\n \n});",
+			"display: inlin",
+			"nav",
+			"header",
+			"p {",
+			"p{",
+			"p",
+			"h1",
+			".btn",
+			"header",
+			"media",
+			"header",
+			"articl",
+			"12",
+			"header",
+			"footer",
+			"btn-primary",
+			"btn",
+			"view",
+			"@media",
+			"nav",
+			"a{",
+			"ali",
+			"nav",
+			"btn",
+			"code",
+			"form",
+			"@media",
+			"center",
+			"layout",
+			"a:hover",
+			"container",
+			"display: inline",
+			"nav",
+			".hover",
+			"content",
+			"box-shadow",
+			"main-menu",
+			"login",
+			"user-menu",
+			"theme",
+			"al",
+			"container",
+			"usermenu",
+			"red",
+			"body",
+			"theme",
+			"text-align: center",
+			"hr",
+			"li inline",
+			"nav",
+			"body",
+			"background",
+			"body",
+			"\n",
+			"input",
+			"#27AABE",
+			"social_entity: 17",
+			"social",
+			"end",
+			"rubber_env",
+			"'rubber_env'",
+			"line_graph",
+			":hover",
+			"span",
+			"span6",
+			"gutter",
+			"password_resets.html.erb",
+			"container",
+			"	",
+			"clear",
+			"875px",
+			"border",
+			"@media"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"link_to",
+			"<span class=\"yelp\">",
+			"<span class=\"glassdoor\">",
+			"<span class=\"linkedin\">",
+			"<span class=\"customerservice\">",
+			"screens",
+			"",
+			"Data Simply",
+			"<input class=\"amount\"></input>",
+			"<h3 class=\"yellow-green-gradient\">",
+			"h4",
+			"p"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "spec/spec_helper.rb",
+					"settings":
+					{
+						"buffer_size": 3566,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3562,
+								3562
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/Ruby on Rails.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1035.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				0,
+				1,
+				1,
+				2
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			0.5,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 25.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"user",
+				"app/models/user.rb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 255.0,
+	"status_bar_visible": true
+}

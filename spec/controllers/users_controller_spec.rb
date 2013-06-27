@@ -31,6 +31,7 @@ describe UsersController do
     end
 
     #       TEST NEEDS TO BE RE-WRITTEN - WORKS IN PRACTICE
+
     # it "should have a profile image" do
     #   get:show, :id => @user
     #   response.should have_selector('h1>img', :class => "gravtastic")
@@ -45,6 +46,7 @@ describe UsersController do
   end
 
   describe "GET 'new'" do
+
     it "returns http success" do
       get 'new'
       response.should be_success
@@ -54,5 +56,8 @@ describe UsersController do
   		get 'new'
   		response.should have_selector('title', :content => "Sign up")
   	end
+
+
+    
   end
 end

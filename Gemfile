@@ -26,6 +26,8 @@ group :development do
 	gem 'bcrypt-ruby'
 	gem 'factory_girl_rails', '1.0'
 	gem 'gravtastic'
+	gem 'ZenTest'
+	gem 'autotest-rails'
 	
 end
 
@@ -39,5 +41,7 @@ group :test do
 	gem 'bcrypt-ruby'
 	gem 'factory_girl_rails', '1.0'
 	gem 'gravtastic'
+	gem 'ZenTest'
+	gem 'autotest-rails'
 end
 

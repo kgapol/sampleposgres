@@ -1,6 +1,7 @@
 GEM
   remote: https://rubygems.org/
   specs:
+    ZenTest (4.9.2)
     actionmailer (3.2.12)
       actionpack (= 3.2.12)
       mail (~> 2.4.4)
@@ -31,6 +32,8 @@ GEM
     annotate (2.5.0)
       rake
     arel (3.0.2)
+    autotest-rails (4.1.2)
+      ZenTest (~> 4.5)
     bcrypt-ruby (3.0.1)
     builder (3.0.4)
     capybara (2.1.0)
@@ -173,7 +176,9 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  ZenTest
   annotate
+  autotest-rails
   bcrypt-ruby
   capybara
   coffee-rails (~> 3.2.1)
